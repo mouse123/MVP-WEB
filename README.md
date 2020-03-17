@@ -27,4 +27,4 @@ npm run dev
 yarm run dev
 ```
 
-> 了解更多配置项可参考[nuxt官方文档详](https://zh.nuxtjs.org/)
+> 了解更多配置项可参考[nuxt官方文档详详情](https://zh.nuxtjs.org/)

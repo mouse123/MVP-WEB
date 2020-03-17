@@ -51,7 +51,7 @@ export default {
   },
   methods: {
     selectBack(menu){
-      return this.$route.path == menu.router ? { background: "gray" } : {}
+      return this.$route.path == menu.router ? { color: "#000" } : {}
     }
   },
   mounted(){
@@ -82,6 +82,6 @@ a {
   text-decoration: none;
 }
 a:hover {
-  
+  color: #000;
 }
 </style>

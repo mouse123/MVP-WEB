@@ -52,7 +52,7 @@ module.exports = {
     '@nuxtjs/proxy',
   ],
   axios: {
-    // proxyHeaders: false
+    proxyHeaders: true,
     // retry: { retries: 1 },
     proxy: true
   },
